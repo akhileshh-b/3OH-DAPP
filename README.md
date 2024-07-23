@@ -1,5 +1,6 @@
 # 3OH-DAPP
 Steps to follow:
+
 cd todo-dapp
 ### Add your 12 word mneumonic/ secret key from metamask
 then,
