@@ -11,7 +11,7 @@
 cd todo-dapp
 ```
 
-### Add your 12 word mneumonic/ secret key from metamask in .env file
+### Add your 12 word MNEMONIC/ secret key from metamask in .env file
 then,
 ```
 npm install
