@@ -20,7 +20,7 @@ A decentralized To-Do List application built on the Ethereum blockchain using So
 ## Installation & Deployment
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/todo-list-solidity.git && cd todo-dapp
+   git clone https://github.com/akhileshh-b/3OH-DAPP.git && cd todo-dapp
    ```
 2. Add your 12-word MNEMONIC/secret key from MetaMask in the `.env` file.
 3. Install dependencies:
